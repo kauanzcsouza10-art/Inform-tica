@@ -14,17 +14,6 @@ Descrição inicial e introdução à disciplina.
 ### 📷 Imagem da atividade
 <img width="1792" height="203" alt="image" src="https://github.com/user-attachments/assets/8671fa9f-8860-4a40-9da7-219f202ee2ef" />
 
-### 📐 Fórmulas utilizadas
-```excel
-=CONT.VALORES(A:A)-1
-=CONT.VALORES(B:B)-1
-=CONT.VALORES(D:D)-1
-
-=PROCV(Formula!H3;Tabela1[[#Tudo];[CNPJ]:[Nome Fantasia]];2;0)
-=PROCV(I3;Tabela1[[#Tudo];[CNPJ]:[Situação da Atividade]];3;0)
-=PROCV(J3;Tabela1[[CNPJ]:[Natureza Jurídica]];4;0)
-```
-
 ---
 
 ## 📁 **Atividade 3 – Dados Abertos em Planilha**
@@ -77,7 +66,6 @@ https://app.powerbi.com/links/7zC3qnDX9N?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 ## ✔️ **Status**
 📅 Repositório em atualização  
 📚 Focado em análise de dados, Excel e Power BI
-
 ---
 
 disciplina*  
