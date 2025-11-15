@@ -2,7 +2,7 @@
 
 Repositório dedicado às atividades da disciplina de Informática, incluindo Excel, Power BI, análise de dados e regressão linear.
 
-![Uploading Captura de tela 2025-11-14 211240.png…]()
+<img width="1005" height="565" alt="Captura de tela 2025-11-14 211240" src="https://github.com/user-attachments/assets/cebd1b69-e586-478a-939e-5df3d79633d5" />
 
 
 https://www.canva.com/design/DAG4uP1N0S8/G1437y7Lijjg7FtseERk8Q/edit?utm_content=DAG4uP1N0S8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
