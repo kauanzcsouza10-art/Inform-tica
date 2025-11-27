@@ -35,7 +35,8 @@ Nesta atividade foi realizada uma apresentação inicial sobre a disciplina de I
 - Como Excel, Power BI e estatística auxiliam na tomada de decisões
 
 📷 
-<img width="1005" height="565" alt="Captura" src="https://github.com/user-attachments/assets/cebd1b69-e586-478a-939e-5df3d79633d5" />
+
+<img width="889" height="499" alt="Captura de tela 2025-11-27 084351" src="https://github.com/user-attachments/assets/63428926-322a-4e03-8897-b633d98da0c0" />
 
 🔗 **Arquivo completo no Canva:**  
 https://www.canva.com/design/DAG4uP1N0S8/G1437y7Lijjg7FtseERk8Q/edit
