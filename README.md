@@ -171,8 +171,71 @@ Aplicação da regressão linear no contexto de salários, permitindo:
 # ✔️ **Status do Repositório**
 </div>
 
-📅 **Em constante atualização**  
+📅 **Em constante atualização** 
 📚 Enfoque em: **Excel, Power BI, estatística, regressão linear e análise de dados**  
 📊 Compõe portfólio pessoal e acadêmico para desenvolvimento profissional  
+
+---
+
+<a name="atividade8"></a>
+<div align="center">
+
+# 🛒 **Atividade 8 – Dashboard da Pesquisa Mensal do Comércio (PMC – SEADE)**  
+**(Power BI + Excel + Segmentadores + Medianas por Ano e Mês)**
+
+</div>
+
+Nesta atividade foi desenvolvido um dashboard interativo utilizando dados oficiais da **Pesquisa Mensal do Comércio (PMC)** disponibilizados pelo **SEADE**.
+
+Foram trabalhados:
+
+- Download e tratamento de dados públicos  
+- Construção de tabelas organizadas  
+- Gráficos dinâmicos no **Excel**  
+- Dashboard profissional no **Power BI**  
+- Medianas mensais e anuais  
+- Uso de **segmentadores (Ano, Mês, Setor)**  
+- Gravação da interação com o painel  
+- Publicação de todos os arquivos no GitHub  
+
+---
+
+## 📁 **a) Tabelas Criadas**
+
+Foram elaboradas duas tabelas conforme solicitado:
+
+### **Tabela 1 – Sem Ajuste Sazonal**
+| Ano | Mês | Mês_Nome | Setor | Indice_SA |
+|-----|-----|-----------|--------|-----------|
+
+### **Tabela 2 – Com Ajuste Sazonal**
+| Ano | Mês | Mês_Nome | Setor | Indice_CA |
+|-----|-----|-----------|--------|-----------|
+
+Essas tabelas foram estruturadas a partir dos arquivos oficiais da PMC.
+
+---
+
+## 🔗 **b) Base de Dados (Download Oficial)**
+
+Fonte: SEADE Setorial  
+https://repositorio.seade.gov.br/dataset/seade-setorial  
+
+Arquivos utilizados:
+
+- **Índice de Base Fixa – Sem Ajuste Sazonal**  
+- **Índice de Base Fixa – Com Ajuste Sazonal**
+
+---
+
+## 📊 **c) Dashboard (Power BI + Excel)**
+
+Foram desenvolvidos **três gráficos obrigatórios**, conforme solicitado no enunciado:
+
+---
+
+### **1️⃣ Mediana do Índice de Base Fixa por Ano (Sem Ajuste Sazonal)**  
+Visual: *Linha*  
+Medida:
 
 ---
