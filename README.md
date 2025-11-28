@@ -237,5 +237,5 @@ Foram desenvolvidos **três gráficos obrigatórios**, conforme solicitado no en
 ### **1️⃣ Mediana do Índice de Base Fixa por Ano (Sem Ajuste Sazonal)**  
 Visual: *Linha*  
 Medida:
-
+https://github.com/kauanzcsouza10-art/Inform-tica/blob/main/prova.mp4
 ---
